@@ -1,0 +1,15 @@
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Persistence/obj/Debug/net5.0/Persistence.pdb

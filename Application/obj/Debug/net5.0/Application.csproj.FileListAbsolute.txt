@@ -1,0 +1,17 @@
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Application.deps.json
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Application.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Application.pdb
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Domain.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Persistence.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/bin/Debug/net5.0/Domain.pdb
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/domesama/Desktop/Github Repositories/DotNET/DotNET-Helloworld/Application/obj/Debug/net5.0/Application.pdb
